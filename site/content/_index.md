@@ -18,9 +18,8 @@ intro:
     - image: /img/illustrations-coffee-gear.svg
       heading: Secure
       text: >
-        With our services deployed in the cloud, your stake of Cardano will be
-        online 24/7/365 contributing to the network and generating additional
-        token.
+        No 3rd party application is needed. Just take your tokens through the Daedalus 
+        Wallet.
     - image: /img/illustrations-coffee-gear.svg
       heading: Low Fees
       text: >
